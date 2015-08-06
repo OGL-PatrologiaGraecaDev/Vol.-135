@@ -1,0 +1,16 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/135:no.2/coo.31924054870401/580.png"; bbox 0 0 4066 6362; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 3098 15 3297">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 3140 15 3257">
+     <span class='ocr_line' id='line_1_1' title="bbox 1 3140 15 3187; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1 3140 15 3187; x_wconf 67' lang='grc' dir='ltr'><em>εἷ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 3224 13 3257; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 0 3224 13 3257; x_wconf 68' lang='grc' dir='ltr'>ς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4 4102 21 4149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 4102 21 4149">
+     <span class='ocr_line' id='line_1_3' title="bbox 4 4102 21 4149; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 4 4102 21 4149; x_wconf 70' lang='lat'><strong><em>5</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
